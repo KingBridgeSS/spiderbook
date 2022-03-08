@@ -9,8 +9,13 @@ api自己抓包吧，现在只是写来玩玩
 饼如下：
 
 [![bgq6Vx.png](https://s1.ax1x.com/2022/03/08/bgq6Vx.png)](https://imgtu.com/i/bgq6Vx)
+
 前端vue element ui 
+
 后端nodejs express
+
 数据库mysql
+
 如果你无聊至极，对我这个菜鸡的开发经历感兴趣的话，
+
 [记第一次web开发历程](https://www.cnblogs.com/kingbridge/articles/15982276.html)
