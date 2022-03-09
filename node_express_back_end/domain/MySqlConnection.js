@@ -3,7 +3,7 @@ const config=require('../config/MySqlConfig')
 
 const connection=mysql.createConnection({
         host:config.HOST,
-        port:config.port,
+        port:config.PORT,
         user:config.USER,
         password:config.PASSWORD,
         database:config.DB,
